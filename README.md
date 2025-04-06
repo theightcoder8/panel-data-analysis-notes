@@ -1,24 +1,33 @@
-# Panel Data Analysis – Week 1
+# 📊 Panel Data Analysis – Weekly Course Notes
 
-This repository provides a structured introduction to panel data for econometrics students. 
-It covers basic definitions, advantages and limitations of panel data, key concepts such as unit effects and time effects, and a brief practical notebook.
+This repository contains a week-by-week collection of notes, formulas, data examples, and simple code materials from a university-level course on **Panel Data Econometrics**.
 
-## 📌 Topics Covered
-- What is Panel Data?
-- Difference between Cross-sectional, Time Series, and Panel Data
-- Balanced vs. Unbalanced Panels
-- Unit Effects & Time Effects
-- Advantages and Limitations of Panel Data
-- Real-world examples
+The aim is to summarize both theoretical and practical aspects of panel data analysis, including models like Pooled OLS, Fixed Effects, and Random Effects — supported by Python examples when possible.
 
-## 📂 Contents
-- `formulas.md`: Key equations and model structures
-- `examples/panel_structure.csv`: A sample panel dataset
-- `notebooks/intro_to_panel.ipynb`: Python notebook for basic exploration
+---
 
-## 🔍 Real World Examples
-- GDP data of OECD countries over years
-- Student test scores over semesters
-- Annual financial data of publicly listed companies
+## 🗂️ Weekly Progress
 
-This repository is part of a university-level Panel Data Analysis course – Week 1.
+| Week | Topics Covered | Folder |
+|------|----------------|--------|
+| 1    | What is Panel Data? Balanced/Unbalanced panels, structure, key concepts | [`week01`](./week01) |
+| 2    | _Coming soon..._ | – |
+| 3    | _Coming soon..._ | – |
+| ...  | ... | ... |
+
+---
+
+## 📚 Structure
+Each week includes:
+- A markdown summary or lecture-style notes
+- Key formulas and model structures
+- Example datasets (CSV)
+- Optional Python notebooks for practical exploration
+
+---
+
+## 📈 About the Course
+> These materials are based on a university econometrics course covering 14 weeks of panel data theory and applications.
+
+Stay tuned — new content will be added weekly!
+
