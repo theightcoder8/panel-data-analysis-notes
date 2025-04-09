@@ -1,4 +1,4 @@
-# 📘 Week 3 – Fixed Effects Model (Sabit Etkiler)
+# 📘 Week 3 – Fixed Effects Model
 
 This week, we focus on the **Fixed Effects (FE) Model**, a key method used when unobserved unit-specific effects (μᵢ) are correlated with explanatory variables. We introduce two main estimation techniques:
 - The **Within Estimator** (Grup İçi Tahminci)
