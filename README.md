@@ -6,17 +6,6 @@ The aim is to summarize both theoretical and practical aspects of panel data ana
 
 ---
 
-## 🗂️ Weekly Progress
-
-| Week | Topics Covered | Folder |
-|------|----------------|--------|
-| 1    | What is Panel Data? Balanced/Unbalanced panels, structure, key concepts | [`week01`](./week01) |
-| 2    | _Coming soon..._ | – |
-| 3    | _Coming soon..._ | – |
-| ...  | ... | ... |
-
----
-
 ## 📚 Structure
 Each week includes:
 - A markdown summary or lecture-style notes
